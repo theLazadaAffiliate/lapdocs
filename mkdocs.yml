@@ -1,0 +1,60 @@
+site_name: Lazada Affiliate Program Guide
+theme:
+  name: null
+  custom_dir: 'mkdocs-material/material'
+  language: 'en'
+  palette:
+    primary: 'indigo'
+    accent: 'orange'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  logo:
+    icon: 'cloud'
+  feature:
+    tabs: true
+
+pages:
+    - 'Introduction': 'index.md'
+    - 'Message from Affiliate Team': 'message.md'
+    - 'Getting Started':
+      - 'How to Earn?': 'start/getting-started.md'
+      - 'Create a Blog': 'start/blogger.md'
+      - 'Make Videos': 'start/youtube.md'
+      - 'Promote on Facebook': 'start/facebook.md'
+      - 'Account Setup': hasoffers/setup.md
+    - 'Hasoffers':
+      - 'Account Setup': hasoffers/setup.md
+      - 'Generating Links': hasoffers/generating-links.md
+      - 'Monitoring Performance': hasoffers/monitoring.md
+      - 'Payout Details': hasoffers/payout.md
+      - 'FAQ': hasoffers/faq.md
+
+extra:
+  social:
+    - type: 'facebook'
+      link: 'https://facebook.com/groups/lazadaAffiliateGroupPH'
+
+# Repository
+repo_name: Join Our Affiliate Group
+repo_url: https://facebook.com/groups
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
