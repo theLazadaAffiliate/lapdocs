@@ -29,6 +29,10 @@ pages:
       - 'Monitoring Performance': hasoffers/monitoring.md
       - 'Payout Details': hasoffers/payout.md
       - 'FAQ': hasoffers/faq.md
+    - 'FAQ':
+      - 'Affiliate Program': 'faq-affiliate.md'
+      - 'Hasoffer': 'faq-hasoffers.md'
+
 
 extra:
   social:
