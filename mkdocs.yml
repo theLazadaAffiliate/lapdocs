@@ -28,7 +28,7 @@ pages:
       - 'Generating Links': hasoffers/generating-links.md
       - 'Monitoring Performance': hasoffers/monitoring.md
       - 'Payout Details': hasoffers/payout.md
-      - 'FAQ': hasoffers/faq.md
+      - 'FAQ': 'faq-hasoffers.md'
     - 'FAQ':
       - 'Affiliate Program': 'faq-affiliate.md'
       - 'Hasoffer': 'faq-hasoffers.md'
