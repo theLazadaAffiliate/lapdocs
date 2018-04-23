@@ -4,9 +4,9 @@ There are different types of Affiliate links...
 ## Creating Text links
 
 1. Login
-2. Hover over Offers & Click App Deeplink Generator
+2. Hover over Offers & Click `App Deeplink Generator`
 3. Login again with your Hasoffers Account
-4. Add your product URL & SKU code
+4. Add both the products `URL & SKU` code
 5. Click the `refresh` icon to receive your link
 
 !!! info "Only include up to `.html` when copying the URL Do not include the question mark `?` as this may cause some errors. Also do not click the magnifying glass as this also causes errors."

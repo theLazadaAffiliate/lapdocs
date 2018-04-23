@@ -2,7 +2,7 @@
 
 Join the largest Affiliate Program in South East Asia and start making profits! Thousands of partners have already chosen Lazada to monetize their online traffic.
 
-!!! tip "<a href="https://docs.google.com/forms/d/e/1FAIpQLSfj5T7EoyajOqY5LvrPE8ExTraSUZJd2kzFsCA1vL2hW1LoRg/viewform?usp=pp_url&entry.1194507248&entry.843478154&entry.1299582117&entry.2017197258&entry.2105320927&entry.487214639&entry.92000404&entry.1273601614" target="_blank">Sign Up for an Affiliate Account</a>"
+!!! tip "<a href="https://docs.google.com/forms/d/e/1FAIpQLSeBP7xnDgZdg3aTrh6nbQZpo0_OaW1zxvOibcyC9sfDpTeUSg/viewform?usp=pp_url&entry.1544010014&entry.1513448020&entry.1838672784&entry.894825229" target="_blank">Sign Up for an Affiliate Account</a>"
 
 
 ## About the Program
